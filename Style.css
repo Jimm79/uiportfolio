@@ -73,7 +73,7 @@ body {
 font-size: 25px;
 line-height: 30px;
 font-family: 'Cormorant Garamond';
-color: #383838;    
+color: #353535;    
     
 
 }
@@ -84,7 +84,7 @@ font-family: 'Raleway';
 
 p {
 padding-bottom: 20px;
-color: grey;	
+color: #353535;	
 }
 
 h1 {
@@ -425,9 +425,9 @@ border-radius: 5%;
 
 body {
 font-size: 20px;
-line-height: 25px;
+line-height: 24px;
 font-family: 'Cormorant Garamond';
-color: #383838;    
+color: #353535;    
     
 
 }
@@ -460,7 +460,7 @@ font-family: 'Raleway';
 	
 p {
 padding-bottom: 20px;
-color: grey;	
+color: #353535;	
 }
 
 .main {
@@ -625,10 +625,11 @@ h3 {
 	}	
 	
 body {
-font-size: 38px;
-line-height: 40px;
+font-size: 45px;
+line-height: 60px;
 text-align: center;
-	width: 75%;    
+width: 75%;
+color: #353535;    	
     
 
 }
@@ -648,7 +649,7 @@ font-family: 'Raleway';
 p {
 padding-bottom: 20px;
 line-height: 50px;	
-color: grey;	
+color: #353535;	
 }	
 	
 }
@@ -735,7 +736,7 @@ color: grey;
 
 .FooterNav ul li a {
     margin: 30px;
-    font-size: 25px;
+    font-size: 26px;
 }
 
 }
